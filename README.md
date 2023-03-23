@@ -27,4 +27,4 @@ My name is Arman. Stack: Front End Developer.
 </br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saents&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&rank=S,A,B,C)
+![](https://github-profile-trophy.vercel.app/?username=saents&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2)
