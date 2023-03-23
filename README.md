@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Info:
 My name is Arman. Stack: Front End Developer.
 
 
