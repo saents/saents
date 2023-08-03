@@ -1,5 +1,5 @@
 # 📌 Info:
-### My name is Arman. Stack: Front End Developer.
+### I'm Arman. Web Developer, Stack: MERN.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mosh_292) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armdev292) 
