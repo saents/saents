@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=saents&icon=8&color=2)](https://visitcount.itsvg.in)
 
 # ♨️ Code Wars
-<img src="https://www.codewars.com/users/arm.dev/badges/large"/>
+<img src="https://www.codewars.com/users/saents/badges/large"/>
   
 # 💻 Tech Stack:
 
