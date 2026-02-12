@@ -21,4 +21,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saents&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&rank=-?)
-[![Credly Badge](https://images.credly.com/size/110x110/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7)
+[![Credly Badge](https://images.credly.com/size/110x110/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7) Generative AI Certificate from AWS
+[![Credly Badge](https://images.credly.com/size/110x110/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](https://www.credly.com/badges/0ccebb77-d374-46eb-becb-e5680dea2917) Modern AI Certificate from Cisco
+[![Credly Badge](https://images.credly.com/size/110x110/images/07d67e9e-7af8-49ea-9fb6-a6686e9f5325/image.png)](https://www.credly.com/badges/047156db-d83a-446a-88e4-1c08aac5849b) Web Design and Development Certificate from SAS
