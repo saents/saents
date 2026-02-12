@@ -21,14 +21,10 @@
 
 ## 🏆 Certifications
 
----
-
 ### ☁️ Cloud Certification
 [![Cloud Badge](https://images.credly.com/size/110x110/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7/public_url)
-
-**Credential ID:** 047156db-d83a-446a-88e4-1c08aac5849b  
-**Issued via:** Credly  
-**Description:** Validates foundational knowledge in cloud technologies, infrastructure concepts, and modern distributed systems.
+**Issued via:** Generative AI by Amazon Web Services  
+**Description:** Earners of this badge have completed the Generative Artificial Intelligence training and achieved the required scores on the post-course assessment. They have shown an understanding in generative artificial intelligence (AI) concepts, and demonstrated the ability to define foundation models, discuss generative AI use cases.
 
 ---
 
@@ -36,8 +32,8 @@
 [![Tech Badge](https://images.credly.com/size/110x110/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](https://www.credly.com/badges/0ccebb77-d374-46eb-becb-e5680dea2917/public_url)
 
 **Credential ID:** 59a663c0-89ec-4409-9f11-5ab3ddc023d7  
-**Issued via:** Credly  
-**Description:** Demonstrates technical proficiency and hands-on understanding of modern development tools and engineering practices.
+**Issued via:** Modern AI by Cisco  
+**Description:** Cisco verifies the earner of this badge successfully completed Modern AI course. The learner will have practiced using AI enabled features on free apps, such as photo apps, translation services, and chatbots. They will have had in depth practice in prompting a chatbot, and understand of how the models work, which informs how they prompt chatbots.
 
 ---
 
@@ -45,7 +41,7 @@
 [![Security Badge](https://images.credly.com/size/110x110/images/07d67e9e-7af8-49ea-9fb6-a6686e9f5325/image.png)](https://www.credly.com/badges/047156db-d83a-446a-88e4-1c08aac5849b/public_url)
 
 **Credential ID:** 0ccebb77-d374-46eb-becb-e5680dea2917  
-**Issued via:** Credly  
-**Description:** Confirms knowledge of security principles, networking basics, and infrastructure best practices.
+**Issued via:** Web Design and Development by SAS  
+**Description:** This course provides web design using HTML, CSS, Bootstrap, and JavaScript. This course helps you prepare for the Using the Report Components Library in the SAS Viya SDK for JavaScript course.
 
 
