@@ -23,28 +23,29 @@
 
 ---
 
-### 🥇 Badge Title #1  
-[![Badge](https://images.credly.com/size/340x340/images/59a663c0-89ec-4409-9f11-5ab3ddc023d7.png)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7)
+### ☁️ Cloud Certification
+[![Cloud Badge](https://images.credly.com/size/340x340/images/047156db-d83a-446a-88e4-1c08aac5849b.png)](https://www.credly.com/badges/047156db-d83a-446a-88e4-1c08aac5849b)
 
-**Issued by:** Organization Name  
-**Skills:** AWS • Cloud • Fundamentals  
-**Description:** Short explanation about what this certification represents.
-
----
-
-### 🚀 Badge Title #2  
-[![Badge](https://images.credly.com/size/340x340/images/047156db-d83a-446a-88e4-1c08aac5849b.png)](https://www.credly.com/badges/047156db-d83a-446a-88e4-1c08aac5849b)
-
-**Issued by:** Organization Name  
-**Skills:** DevOps • Infrastructure  
-**Description:** Short explanation about this certification.
+**Credential ID:** 047156db-d83a-446a-88e4-1c08aac5849b  
+**Issued via:** Credly  
+**Description:** Validates foundational knowledge in cloud technologies, infrastructure concepts, and modern distributed systems.
 
 ---
 
-### 🏅 Badge Title #3  
-[![Badge](https://images.credly.com/size/340x340/images/0ccebb77-d374-46eb-becb-e5680dea2917.png)](https://www.credly.com/badges/0ccebb77-d374-46eb-becb-e5680dea2917)
+### 🚀 Technology / Development Certification
+[![Tech Badge](https://images.credly.com/size/340x340/images/59a663c0-89ec-4409-9f11-5ab3ddc023d7.png)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7)
 
-**Issued by:** Organization Name  
-**Skills:** Security • Networking  
-**Description:** Short explanation about this certification.
+**Credential ID:** 59a663c0-89ec-4409-9f11-5ab3ddc023d7  
+**Issued via:** Credly  
+**Description:** Demonstrates technical proficiency and hands-on understanding of modern development tools and engineering practices.
+
+---
+
+### 🔐 Security / Infrastructure Certification
+[![Security Badge](https://images.credly.com/size/340x340/images/0ccebb77-d374-46eb-becb-e5680dea2917.png)](https://www.credly.com/badges/0ccebb77-d374-46eb-becb-e5680dea2917)
+
+**Credential ID:** 0ccebb77-d374-46eb-becb-e5680dea2917  
+**Issued via:** Credly  
+**Description:** Confirms knowledge of security principles, networking basics, and infrastructure best practices.
+
 
