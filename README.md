@@ -21,4 +21,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saents&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&rank=-?)
-[![Credly Badge](BADGE_IMAGE_URL)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7)
+[![Credly Badge](https://images.credly.com/size/110x110/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/59a663c0-89ec-4409-9f11-5ab3ddc023d7)
